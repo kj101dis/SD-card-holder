@@ -24,3 +24,6 @@ Instead of cutting the rope off ur tie it to the thing u want
 | pararcord | Part | 1 | 6.00 | 6.00 | [Amazon Link](https://www.amazon.com/Teceum-Paracord-Type-III-Black/dp/B094DJRMCS?th=1) | | Grant | |
 | **Total** | | | | **12.00** | | | | |
 
+
+CAD ONSHAPE LINK : https://cad.onshape.com/documents/397c67836eefa39a4f093776/w/c260a009d9107c3998edc508/e/c4b82669ef6512c99f04516b?renderMode=0&uiState=6b0393d1ec3cf1175cff7502
+
