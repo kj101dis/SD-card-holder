@@ -13,3 +13,12 @@ Put the SD card between the 2 parts and tie it as per the image below
 
 
 Instead of cutting the rope off ur tie it to the thing u want
+
+
+
+| Part | Type | Quantity | Unit price (USD) | Line total (USD) | Link | Vendor | Funding | Notes |
+| :--- | :--- | :---: | :---: | :---: | :--- | :--- | :--- | :--- |
+| 3d print | 3D printed | 1 | 6.00 | 6.00 | [Slack Link](https://hackclub.slack.com/archives/D0CDJBVDQSX/p1795390399251339) | | Grant | |
+| pararcord | Part | 1 | 6.00 | 6.00 | [Amazon Link](https://www.amazon.com/Teceum-Paracord-Type-III-Black/dp/B094DJRMCS?th=1) | | Grant | |
+| **Total** | | | | **12.00** | | | | |
+
